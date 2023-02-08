@@ -1,0 +1,136 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "title": "RECOLISS",
+            "smalldesc": "For Absolute Health Restoration",
+            "category": "one",
+            "image": "https://res.cloudinary.com/dqlx1vyne/image/upload/v1675066257/PlusEra/OLIFT_Plush_lqkw2d.png",
+            "pointone": "Improves Blood Profile, Maintains Hb level, RBCs & Platelet count",
+            "pointtwo": "Supplements Essential Vitamins & Minerals ",
+            "pointthree": "Supports energy production to overcome weakness & fatigue",
+            "pointfour": "Acts and Anti-pyretic Promotes fertility "
+        },
+        {
+            "id": 2,
+            "title": "ERALIV",
+            "smalldesc": "For Absolute Hepatic Health",
+            "category": "two",
+            "image": "https://res.cloudinary.com/dqlx1vyne/image/upload/v1675066257/PlusEra/OLIFT_Plush_lqkw2d.png",
+            "pointone": "Aids Lipid metabolism to manage NAFLD",
+            "pointtwo": "Helps improving Poor Liver Functions",
+            "pointthree": "Overcomes Anorexia",
+            "pointfour": "Decreases viral load to manage hepatitis"
+        },
+        {
+            "id": 3,
+            "title": "RenOH",
+            "smalldesc": "For Absolute Urinary Tract Health",
+            "category": "three",
+            "image": "https://res.cloudinary.com/dqlx1vyne/image/upload/v1675066257/PlusEra/OLIFT_Plush_lqkw2d.png",
+            "pointone": "Instant Alkaliser, maintains urinary pH",
+            "pointtwo": "Show prominent antibacterial effects to overcome UTIs(Urinary Tract infections)",
+            "pointthree": "Acts as natural Diuretic  ",
+            "pointfour": "Prevents Hyperoxaluria"
+        },
+        {
+            "id": 4,
+            "title": "WOMALYN",
+            "smalldesc": "For Absolute Women Health",
+            "category": "one",
+            "image": "https://res.cloudinary.com/dqlx1vyne/image/upload/v1675066257/PlusEra/OLIFT_Plush_lqkw2d.png",
+            "pointone": "Supplements Phytoestrogens ",
+            "pointtwo": "Regularises menstrual cycles & Overcomes Dysmenorrhea ",
+            "pointthree": "Reduces Oxidative stress to improve Oocyte quality ",
+            "pointfour": "Promotes fertility "
+        },
+        {
+            "id": 5,
+            "title": "COGRIN",
+            "smalldesc": "For Absolute Mental Wellness",
+            "category": "two",
+            "image": "https://res.cloudinary.com/dqlx1vyne/image/upload/v1675066257/PlusEra/OLIFT_Plush_lqkw2d.png",
+            "pointone": "Relieves Anxiety and stress",
+            "pointtwo": "Benefits in stress induced bedwetting ",
+            "pointthree": "Improves concentration & intellect ",
+            "pointfour": "Prevents memory loss in old age"
+        },
+        {
+            "id": 6,
+            "title": "DIFIT Plus",
+            "smalldesc": "An Idea Anti-Diabetic Remedy",
+            "category": "three",
+            "image": "https://res.cloudinary.com/dqlx1vyne/image/upload/v1675066257/PlusEra/OLIFT_Plush_lqkw2d.png",
+            "pointone": "Improves carbohydrate & Glucose metabolism",
+            "pointtwo": "Enhances glucose uptake ",
+            "pointthree": "Regulates Insulin sensitivity",
+            "pointfour": "Helps in maintaining energy level to overcome fatigue"
+        },
+        {
+            "id": 7,
+            "title": "NOALGIA SYRUP",
+            "smalldesc": "Regularises Gut Movements",
+            "category": "three",
+            "image": "https://res.cloudinary.com/dqlx1vyne/image/upload/v1675066257/PlusEra/OLIFT_Plush_lqkw2d.png",
+            "pointone": "Shows anti-inflammatory effects ",
+            "pointtwo": "Promotes immunomodulation ",
+            "pointthree": "Maintains cartilage health",
+            "pointfour": "Increases remission phase in arthritis & Gout "
+        },
+        {
+            "id": 8,
+            "title": "NOALGIA OIL SPRAY",
+            "smalldesc": "Regularises Gut Movements",
+            "category": "three",
+            "image": "https://res.cloudinary.com/dqlx1vyne/image/upload/v1675066257/PlusEra/OLIFT_Plush_lqkw2d.png",
+            "pointone": "Reduces Pain & Inflammation instantly ",
+            "pointtwo": "Acts as muscle relaxant ",
+            "pointthree": "Reduces swelling around joints ",
+            "pointfour": "Improves mobility in frozen joints  "
+        },
+        {
+            "id": 9,
+            "title": "OLIFT",
+            "smalldesc": "For Absolute Male Health Gut Movements",
+            "category": "three",
+            "image": "https://res.cloudinary.com/dqlx1vyne/image/upload/v1675066257/PlusEra/OLIFT_Plush_lqkw2d.png",
+            "pointone": "Increases Testosterone level in males",
+            "pointtwo": "Helps overcoming Erectile Dysfunction",
+            "pointthree": "Improves Semen quality & Sperm health",
+            "pointfour": "Improves libido and reduces stress"
+        },
+        {
+            "id": 10,
+            "title": "CUTERA",
+            "smalldesc": "For Absolute Skin Health",
+            "category": "three",
+            "image": "https://res.cloudinary.com/dqlx1vyne/image/upload/v1675066257/PlusEra/OLIFT_Plush_lqkw2d.png",
+            "pointone": "Controls skin infections effectively ",
+            "pointtwo": "Reduces Skin inflammation",
+            "pointthree": "Repairs & heal damaged skin",
+            "pointfour": "Eliminates metabolic & Cytotoxins "
+        },
+        {
+            "id": 11,
+            "title": "DIGEASE",
+            "smalldesc": "For Absolute Gastric Health",
+            "category": "three",
+            "image": "https://res.cloudinary.com/dqlx1vyne/image/upload/v1675066257/PlusEra/OLIFT_Plush_lqkw2d.png",
+            "pointone": "Stimulates secretion of Digestive enzymes ",
+            "pointtwo": "Exerts carminative action ",
+            "pointthree": "Relieves morning sickness",
+            "pointfour": "Reduces spasms & relaxes GIT muscles "
+        },
+        {
+            "id": 12,
+            "title": "ERALAX",
+            "smalldesc": "Regularises Gut Movements",
+            "category": "three",
+            "image": "https://res.cloudinary.com/dqlx1vyne/image/upload/v1675066257/PlusEra/OLIFT_Plush_lqkw2d.png",
+            "pointone": "Relieves acute & chronic constipation",
+            "pointtwo": "Regularises Bowel movements ",
+            "pointthree": "Non habit forming formula",
+            "pointfour": "Tones digestive system "
+        }
+    ]
+}
