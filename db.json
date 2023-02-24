@@ -10,7 +10,7 @@
             "pointone": "Improves Blood Profile, Maintains Hb level, RBCs & Platelet count",
             "pointtwo": "Supplements Essential Vitamins & Minerals ",
             "pointthree": "Supports energy production to overcome weakness & fatigue",
-            "pointfour": "Acts and Anti-pyretic Promotes fertility "
+            "pointfour": "Acts as Anti-pyretic."
         },
         {
             "id": 2,
@@ -19,7 +19,7 @@
             "category": "Liver care",
             "image": "https://res.cloudinary.com/dqlx1vyne/image/upload/v1676879328/PlusEra/ERALIV_tolry5.webp",
             "pimg":"https://res.cloudinary.com/dqlx1vyne/image/upload/v1676884676/PlusEra/ERALIVp_opjfjq.webp",
-            "pointone": "Aids Lipid metabolism to manage NAFLD",
+            "pointone": "Aids Lipid metabolism to manage NAFLD (Non Alcoholic fatty liver disease)",
             "pointtwo": "Helps improving Poor Liver Functions",
             "pointthree": "Overcomes Anorexia",
             "pointfour": "Decreases viral load to manage hepatitis"
@@ -75,7 +75,7 @@
         {
             "id": 7,
             "title": "NOALGIA SYRUP",
-            "smalldesc": "Regularises Gut Movements",
+            "smalldesc": "For absolute musculoskeletal health",
             "category": "Joints care",
             "image": "https://res.cloudinary.com/dqlx1vyne/image/upload/v1676879324/PlusEra/NOALGIA_givujg.webp",
             "pimg":"https://res.cloudinary.com/dqlx1vyne/image/upload/v1676884676/PlusEra/NOALGIAp_fefhji.webp",
@@ -87,7 +87,7 @@
         {
             "id": 8,
             "title": "OLIFT",
-            "smalldesc": "For Male Health Gut Movements",
+            "smalldesc": "For Male sexual wellness",
             "category": " Sexual wellness",
             "image": "https://res.cloudinary.com/dqlx1vyne/image/upload/v1676879324/PlusEra/OLIFT_rlgbw2.webp",
             "pimg":"https://res.cloudinary.com/dqlx1vyne/image/upload/v1676884676/PlusEra/OLIFTp_xoypj7.webp",
@@ -106,7 +106,7 @@
             "pointone": "Controls skin infections effectively ",
             "pointtwo": "Reduces Skin inflammation",
             "pointthree": "Repairs & heal damaged skin",
-            "pointfour": "Eliminates metabolic & Cytotoxins "
+            "pointfour": "Eliminates metabolic waste "
         },
         {
             "id": 10,
