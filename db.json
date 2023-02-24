@@ -119,6 +119,30 @@
             "pointtwo": "Exerts carminative action ",
             "pointthree": "Relieves morning sickness",
             "pointfour": "Reduces spasms & relaxes GIT muscles "
+        },
+        {
+            "id": 11,
+            "title": "NOALGIA OIL SPRAY",
+            "smalldesc": "Relieves Pain Joint and Muscle in Pain",
+            "category": "Joints care",
+            "image": "https://res.cloudinary.com/dqlx1vyne/image/upload/v1676879329/PlusEra/Digease_r33qq8.webp",
+            "pimg":"https://res.cloudinary.com/dqlx1vyne/image/upload/v1676884677/PlusEra/Digeasep_nji0fx.webp",
+            "pointone": "Reduces Pain & Inflammation instantly",
+            "pointtwo": "Acts as muscle relaxant",
+            "pointthree": "Reduces swelling around joints ",
+            "pointfour": "Improves mobility in frozen joints"
+        },
+         {
+            "id": 12,
+            "title": "ERALAX",
+            "smalldesc": "Penetrates Deeply | Relieves Pain",
+            "category": "Gut Health care",
+            "image": "https://res.cloudinary.com/dqlx1vyne/image/upload/v1677237492/PlusEra/ERALAX_100g_koip1b.webp",
+            "pimg":"https://res.cloudinary.com/dqlx1vyne/image/upload/v1677237517/PlusEra/ERALAX_100g_1_ulwr26.webp",
+            "pointone": "Relieves acute & chronic constipation",
+            "pointtwo": "Regularises Bowel movements ",
+            "pointthree": "Non habit forming formula",
+            "pointfour": "Tones digestive system  "
         }
     ]
 }
