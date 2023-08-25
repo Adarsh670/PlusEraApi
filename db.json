@@ -13,7 +13,7 @@
             "pointfour": "Acts as Anti-pyretic."
         },
         {
-            "id": 2,
+            "id": "ERALIV",
             "title": "ERALIV",
             "smalldesc": "For Absolute Hepatic Health",
             "category": "Liver care",
@@ -25,7 +25,7 @@
             "pointfour": "Decreases viral load to manage hepatitis"
         },
         {
-            "id": 3,
+            "id": "RenOH",
             "title": "RenOH",
             "smalldesc": "For Absolute Urinary Tract Health",
             "category": "Kidney care",
@@ -37,7 +37,7 @@
             "pointfour": "Prevents Hyperoxaluria"
         },
         {
-            "id": 4,
+            "id": "WOMALYN",
             "title": "WOMALYN",
             "smalldesc": "For Absolute Women Health",
             "category": "Female health care",
@@ -49,7 +49,7 @@
             "pointfour": "Promotes fertility "
         },
         {
-            "id": 5,
+            "id": "COGRIN",
             "title": "COGRIN",
             "smalldesc": "For Absolute Mental Wellness",
             "category": "Mental wellness",
@@ -61,7 +61,7 @@
             "pointfour": "Prevents memory loss in old age"
         },
         {
-            "id": 6,
+            "id": "DIFIT Plus",
             "title": "DIFIT Plus",
             "smalldesc": "An Idea Anti-Diabetic Remedy",
             "category": "Diabetes care",
@@ -73,7 +73,7 @@
             "pointfour": "Helps in maintaining energy level to overcome fatigue"
         },
         {
-            "id": 7,
+            "id": "NOALGIA SYRUP",
             "title": "NOALGIA SYRUP",
             "smalldesc": "For absolute musculoskeletal health",
             "category": "Joints care",
@@ -85,7 +85,7 @@
             "pointfour": "Increases remission phase in arthritis & Gout "
         },
         {
-            "id": 8,
+            "id": "OLIFT",
             "title": "OLIFT",
             "smalldesc": "For Male sexual wellness",
             "category": " Sexual wellness",
@@ -97,7 +97,7 @@
             "pointfour": "Improves libido and reduces stress"
         },
         {
-            "id": 9,
+            "id": "CUTERA",
             "title": "CUTERA",
             "smalldesc": "For Absolute Skin Health",
             "category": "Skin health care",
@@ -109,7 +109,7 @@
             "pointfour": "Eliminates metabolic waste "
         },
         {
-            "id": 10,
+            "id": "DIGEASE",
             "title": "DIGEASE",
             "smalldesc": "For Absolute Gastric Health",
             "category": "Gut Health care",
@@ -121,7 +121,7 @@
             "pointfour": "Reduces spasms & relaxes GIT muscles "
         },
         {
-            "id": 11,
+            "id": "NOALGIA OIL SPRAY",
             "title": "NOALGIA OIL SPRAY",
             "smalldesc": "Penetrates Deeply | Relieves Pain With instant effect",
             "category": "Joints care",
@@ -133,7 +133,7 @@
             "pointfour": "Improves mobility in frozen joints"
         },
          {
-            "id": 12,
+            "id": "ERALAX",
             "title": "ERALAX",
             "smalldesc": "Regularises Gut Movements",
             "category": "Gut Health care",
